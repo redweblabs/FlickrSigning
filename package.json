@@ -1,0 +1,20 @@
+{
+  "name": "FlickrSigning",
+  "description": "A module for building and signing Flickr requests",
+  "version": "0.1.0",
+  "tags": [
+    "md5",
+    "flickr",
+    "requests"
+  ],
+  "private": false,
+  "dependencies": {
+    "MD5" : "1.1.0"
+  },
+  "author": {
+    "name": "Sean M. Tracey",
+    "url": "http://labs.redweb.com"
+  },
+  "engine" : "node *",
+  "main" : "module.js"
+}
